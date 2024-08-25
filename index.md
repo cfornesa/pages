@@ -1,7 +1,7 @@
 I perpetually seek out new things to learn and new ways to grow as a person.  Being autistic and having ADHD are two parts of my recipe that contribute to my tendency to obsess over the little things, ultimately see the bigger picture, and fuel my curiosity as I hyperfocus on a regular basis.  
 
 
-# Current Goals
+# Recent Projects and Repositories
 
 Here are a list of projects that I am actively working on or have worked on in the past.
 
