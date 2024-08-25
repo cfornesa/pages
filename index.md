@@ -1,12 +1,14 @@
-<h1 style="text-align: center;">CFornesa</h1>
+I perpetually seek out new things to learn and new ways to grow as a person.  Being autistic and having ADHD are two parts of my recipe that contribute to my tendency to obsess over the little things, ultimately see the bigger picture, and fuel my curiosity as I hyperfocus on a regular basis.  
 
-<h3 style="text-align: center;">A very curious person.</h3>
 
-Text information that I will change over time.
+# Current Goals
 
-### Current Goals
-- [x] Finish Week 2 assignments in MOD A of the Online MSDS.
-- [ ] Finish the "First day on GitHub" tutorials on <a href="https://skills.github.com/" target="_blank">GitHub Skills</a>.
-- [ ] Finish the "First week on GitHub" tutorials on <a href="https://skills.github.com/" target="_blank">GitHub Skills</a>.
+Here are a list of projects that I am actively working on or have worked on in the past.
 
-View the codebase for this site <a href="https://github.com/cfornesa/skills-github-pages">here</a>.
+- <a href="https://github.com/cfornesa/hello-world">"Hello World"</a> project.  My first assignment for MOD A of Buston University's Online MSDS program.
+- <a href="https://github.com/cfornesa/introduction-to-github">"Introduction to GitHub"</a> project.  A GitHub Skills project where I practice creating a repo, then branching and merging changes.
+- <a href="https://github.com/cfornesa/communicate-using-markdown">"Communicate using markdown"</a> project.  A GitHub Skills project where I practice communicating with markdown.
+- <a href="https://github.com/cfornesa/pages">"Pages"</a> project.  My first attempt at creating a GitHub page, it is also where this page lives.
+
+View the codebase for this site <a href="https://github.com/cfornesa/pages">here</a> and see my profile <a href="https://cfornesa.github.io/cfornesa">here</a>.
+
