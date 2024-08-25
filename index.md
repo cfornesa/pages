@@ -1,8 +1,7 @@
-### Mobile Data SME. MS in Data Science candidate.  A very curious person.
-
 I perpetually seek out new things to learn and new ways to grow as a person.  Being autistic and having ADHD are two parts of my recipe that contribute to my tendency to obsess over the little things, ultimately see the bigger picture, and fuel my curiosity as I hyperfocus on a regular basis.  
 
-## Current Goals
+
+# Current Goals
 
 Here are a list of projects that I am actively working on or have worked on in the past.
 
@@ -12,3 +11,4 @@ Here are a list of projects that I am actively working on or have worked on in t
 - <a href="https://github.com/cfornesa/pages">"Pages"</a> project.  My first attempt at creating a GitHub page, it is also where this page lives.
 
 View the codebase for this site <a href="https://github.com/cfornesa/pages">here</a> and see my profile <a href="https://cfornesa.github.io/cfornesa">here</a>.
+
